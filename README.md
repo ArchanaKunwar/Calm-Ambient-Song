@@ -30,22 +30,19 @@
 
 ## About the Project
 
-A nature-inspired instrumental that follows a single day from dawn to nightfall. It blends ambient field recordings: seashore, birdsong, wind — with an acoustic singer-songwriter core of nylon guitar, bass, and soft drums. The arc moves from a quiet dawn of pad and birdsong, into a guitar-led intro, verse, and chorus, then a stripped-back bridge of music-box melody and drone, then a brief shift into a brighter folk meadow section with flute and steel guitar, before fading back into wind, birds, and silence. A peaceful, cinematic piece like a walk outdoors that carries through morning, afternoon, and dusk.
+A calm, nature inspired instrumental that follows one day from dawn to nightfall. It mixes outdoor sounds like ocean, birds, wind with soft acoustic guitar, bass, and light drums, building through gentle verses and a folk-style meadow section before fading back into nature and silence.
 
 ## Instruments Used
 
-- **Acoustic Guitar (Nylon)** — the main rhythm and chordal bed
-- **Acoustic Guitar (Steel)** — fingerpicked melody and arpeggios
-- **Acoustic Bass** — walking bassline
-- **Sine Synth** — low drone foundation
-- **Flute** — lead melody in the meadow section
-- **Music Box** — sparse melodic hook in the bridge and outro
-- **Celesta** — high shimmer accents
-- **Pad (New Age)** — warm harmonic bed
-- **TR-808 Drums** — kick and snare, softened with lowpass
-- **Seashore** — ambient ocean texture
-- **Bird Tweet** — dawn/dusk birdsong
-- **White Noise** — filtered wind texture
+- **Acoustic Guitar (Nylon & Steel)** — chords and fingerpicked melody
+- **Acoustic Bass** — bassline
+- **Sine Synth** — low drone
+- **Flute** — lead melody
+- **Music Box** — sparse melodic hook
+- **Celesta** — high shimmer
+- **Pad (New Age)** — warm background chords
+- **TR-808 Drums** — soft kick and snare
+- **Seashore, Bird Tweet, White Noise** — nature textures
 
 
 ---
