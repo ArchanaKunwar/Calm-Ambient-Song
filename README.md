@@ -30,28 +30,22 @@
 
 ## About the Project
 
-A **2 minute 36 second** calm & ambient piece written in **C minor** using Strudel. It's built from **12 GM instruments** and a **TR-808 drum kit**, arranged into **9 sections** that grow from a sparse music box arpeggio into a full string and pad arrangement, then fade back down to a quiet close.
+A nature-inspired instrumental that follows a single day from dawn to nightfall. It blends ambient field recordings: seashore, birdsong, wind — with an acoustic singer-songwriter core of nylon guitar, bass, and soft drums. The arc moves from a quiet dawn of pad and birdsong, into a guitar-led intro, verse, and chorus, then a stripped-back bridge of music-box melody and drone, then a brief shift into a brighter folk meadow section with flute and steel guitar, before fading back into wind, birds, and silence. A peaceful, cinematic piece like a walk outdoors that carries through morning, afternoon, and dusk.
 
-- **Key:** C minor
-- **Tempo:** 20 cycles per minute (3 seconds per cycle)
-- **Total cycles:** 52
-- **Layers:** 26 total, peaking at 6 at once
-- **Chord progression:** Am – F – C – G
-- **Bass line:** A1 – F1 – C2 – G1
-- **Drum pattern:** `<bd ~ ~ ~, ~ ~ sd ~, ~ hh ~ hh>` (kick on 1, snare on 6, hats on 5 & 7)
+## Instruments Used
 
-
----
-
-##  Instruments used
-
-**Melodic:** music box, celesta, electric piano, flute, strings, vibraphone, accordion, nylon guitar, steel guitar. 
-
-**Harmonic:** piano, warm pad. 
-
-**Bass:** acoustic bass. 
-
-**Drums:** RolandTR808 (`bd`, `sd`, `hh`). 
+- **Acoustic Guitar (Nylon)** — the main rhythm and chordal bed
+- **Acoustic Guitar (Steel)** — fingerpicked melody and arpeggios
+- **Acoustic Bass** — walking bassline
+- **Sine Synth** — low drone foundation
+- **Flute** — lead melody in the meadow section
+- **Music Box** — sparse melodic hook in the bridge and outro
+- **Celesta** — high shimmer accents
+- **Pad (New Age)** — warm harmonic bed
+- **TR-808 Drums** — kick and snare, softened with lowpass
+- **Seashore** — ambient ocean texture
+- **Bird Tweet** — dawn/dusk birdsong
+- **White Noise** — filtered wind texture
 
 
 ---
